@@ -1,8 +1,8 @@
 ---
-title: "Markdown Extra Components"
-layout: post
+title: Markdown Extra Components
+layout: default
 date: 2016-02-24 22:48
-image: /assets/images/markdown.jpg
+image: "/assets/images/markdown.jpg"
 headerImage: false
 tag:
 - markdown
@@ -11,6 +11,7 @@ tag:
 category: blog
 author: jamesfoster
 description: Markdown summary with different options
+hidden: true
 ---
 
 ## Summary:
