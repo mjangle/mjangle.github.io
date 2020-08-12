@@ -1,13 +1,11 @@
 ---
 title: Making Brisket
-layout: default
+layout: post
 date: '2020-08-11 22:33:35'
 image: "/assets/images/markdown.jpg"
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- bbq
 category: blog
 author: mjangle
 description: Blog post about making brisket
