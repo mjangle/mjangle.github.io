@@ -11,7 +11,7 @@ tag:
 category: blog
 author: mjangle
 description: Blog post about making brisket
-hidden: true
+hidden: false
 ---
 
 ![]({{ 'assets/images/bbq/20200805_193031.jpg' | relative_url }})
