@@ -13,6 +13,6 @@ layout: page
 I enjoy most things related to data science, including scraping/sourcing, transforming, and interpreting data.</p>
 
 
-<p>In my personal time I enjoy spending time with my family, cooking (esspecially BBQ), and
+<p>In my personal time I enjoy spending time with my family, cooking (especially BBQ), and
 watching hockey.
 </p>
